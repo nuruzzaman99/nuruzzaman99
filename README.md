@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nuruzzaman99
 - 👀 I’m interested in creating something new.
-- 🌱 I’m currently learning android studio.
-- 💞️ I’m looking to collaborate on android application development.
+- 🌱 I’m currently learning Django and developing few projects.
 - 📫 You can find me on www.linkedin.com/in/nuruzzaman-nuhin-7a7476210/ 
 
 <!---
